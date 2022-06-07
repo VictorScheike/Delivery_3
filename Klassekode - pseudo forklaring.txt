@@ -1,0 +1,4 @@
+Klasser til Delivery 4.
+
+Det der er blevet beskrevet med grå tekst med en hasttag (#) foran, er pseudokode i python-filen.
+Pseudokoden forklarer blot hvad de forskellige dele i koden gør og hvad der sker i koden.
